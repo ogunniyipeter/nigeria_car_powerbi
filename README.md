@@ -1,9 +1,9 @@
-Title: Nigeria Cars Report
-Author: Ogunniyi Peter Iyanu
-Date : 14-01=2023
+### Title: Nigeria Cars Report
+### Author: Ogunniyi Peter Iyanu
+### Date : 14-01=2023
 
-## powerbivisuals-nigeria-cars
-### Objectives
+
+## Objectives
 Analyze the car price dataset to answer the following questions
 * Top 10 cars with the highest price?
 * Top 10 cars with the highest mileage?
@@ -52,7 +52,11 @@ The cars are purchased in 3 different conditions whuch Brand new, Foreign used a
 **The gear-type with the highest usage is Automatic(2954 cars)**
 
 **The car makers that produces the highest number of cars is Toyota(1366 cars)**
+
+Work citations
+* The dataset was collected from kaggle.com
+* The visuals was created in powerbi by Ogunniyi Peter Iyanu
+  https://app.powerbi.com/groups/me/dashboards/129288cd-6990-4710-8273-5368fcd0b40c?ctid=1202b124-248c-46ed-8b43-da249e1e847a&pbi_source=linkShare
 #
 #
-#
-# Thank you for checking out my analysis
+# Thank you for checking out my Report
