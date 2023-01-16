@@ -1,3 +1,7 @@
+Title: Nigeria Cars Report
+Author: Ogunniyi Peter Iyanu
+Date : 14-01=2023
+
 ## powerbivisuals-nigeria-cars
 ### Objectives
 Analyze the car price dataset to answer the following questions
